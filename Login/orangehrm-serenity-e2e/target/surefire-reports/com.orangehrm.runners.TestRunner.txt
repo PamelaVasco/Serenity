@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: com.orangehrm.runners.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 17.723 s <<< FAILURE! - in com.orangehrm.runners.TestRunner
+Actualizacion de usuario en OrangeHRM.Maria accede y edita el usuario Jasmine.Morgan  Time elapsed: 15.125 s  <<< ERROR!
+org.openqa.selenium.NoSuchElementException: 
+Timed out after 2 seconds. Element not found
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.23.0', revision: '4df0a231af'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: driver.version: unknown
+

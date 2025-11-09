@@ -1,0 +1,1 @@
+curl -X POST "https://fakestoreapi.com/auth/login" -H "Content-Type: application/json" -d "{\"username\":\"donero\",\"password\":\"ewedon\"}"

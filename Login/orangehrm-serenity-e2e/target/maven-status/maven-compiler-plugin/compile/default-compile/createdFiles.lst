@@ -1,0 +1,5 @@
+com\orangehrm\app\Calculator.class
+com\orangehrm\pages\UserManagementPage.class
+com\orangehrm\pages\AdminPage.class
+com\orangehrm\pages\LoginPage.class
+com\orangehrm\steps\LoginStep.class

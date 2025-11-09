@@ -1,0 +1,7 @@
+# Conclusiones del ejercicio de automatización E2E
+
+- Serenity BDD permite estructurar pruebas de forma clara y mantenible.
+- La integración con Cucumber facilita la escritura de escenarios en lenguaje natural.
+- La identificación de elementos en OrangeHRM requiere inspección cuidadosa del DOM.
+- Se recomienda validar que los elementos estén visibles antes de interactuar.
+- El reporte generado por Serenity es útil para documentar resultados y pasos ejecutados.

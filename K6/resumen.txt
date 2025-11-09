@@ -1,0 +1,5 @@
+CONCLUSIONES:
+- El tiempo promedio fue menor a 1.5 segundos, cumpliendo el objetivo de rendimiento.
+- La tasa de error fue inferior al 3%, lo que indica que el servicio de login es estable bajo carga de 20 TPS.
+- El endpoint respondio correctamente con tokens validos para los usuarios proporcionados.
+- Cabe mencionar que el ùnico user valido es donero, el unico que devuelve el mismo por medio de token, sin embargo esto no afecta a las pruebas dado que responde el server con otro error: 401.
