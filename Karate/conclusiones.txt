@@ -1,0 +1,7 @@
+Conclusiones del ejercicio:
+
+- La API de FakeStore permite validar productos fácilmente.
+- El producto estrella con rate 4.8 cumple con los criterios solicitados.
+- La categoría electronics contiene exactamente 6 productos, incluyendo el id 10.
+- Karate facilita la validación de respuestas JSON con expresiones concisas.
+- Se recomienda usar slicing para limitar resultados en búsquedas.
